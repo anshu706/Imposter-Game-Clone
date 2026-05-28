@@ -4,8 +4,6 @@
 
 A fun, interactive web-based game inspired by the popular social deduction game 'Among Us'. Players must work together to complete tasks while trying to identify the imposter among them. This project is built with modern web technologies to showcase a real-time multiplayer gaming experience.
 
-![image](https://i.imgur.com/fI5nI4X.png)
-
 ## ✨ Features
 
 - **Real-time Multiplayer:** Play with friends in a live, interactive environment.
@@ -60,10 +58,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-_Note: Please replace `your-username` in the URLs with your actual GitHub username._
