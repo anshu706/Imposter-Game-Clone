@@ -2,7 +2,9 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://imposter-game-clone.vercel.app/)
 
-A fun, interactive web-based game inspired by the popular social deduction game 'Among Us'. Players must work together to complete tasks while trying to identify the imposter among them. This project is built with modern web technologies to showcase a real-time multiplayer gaming experience.
+A fun, interactive web-based game inspired by the popular social deduction game 'Among Us'. Players must work together to complete tasks while trying to identify the imposter among them. This project [...]
+
+![image](https://i.imgur.com/fI5nI4X.png)
 
 ## ✨ Features
 
@@ -31,7 +33,7 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/imposter-game-clone.git
+    git clone https://github.com/anshu706/imposter-game-clone.git
     cd imposter-game-clone
     ```
 
@@ -50,7 +52,7 @@ The application will be available at `http://localhost:3000`.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/imposter-game-clone/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/anshu706/imposter-game-clone/issues).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -58,3 +60,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
