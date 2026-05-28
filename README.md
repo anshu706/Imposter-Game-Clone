@@ -2,9 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://imposter-game-clone.vercel.app/)
 
-A fun, interactive web-based game inspired by the popular social deduction game 'Among Us'. Players must work together to complete tasks while trying to identify the imposter among them. This project [...]
+A fun, interactive web-based game inspired by the popular social deduction game 'Among Us'. Players must work together to complete tasks while trying to identify the imposter among them.
 
-![image](https://i.imgur.com/fI5nI4X.png)
 
 ## ✨ Features
 
